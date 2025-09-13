@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-This is a website created for the Lab 2 Question 4. 
+This is a website created for the Lab 2 Question 4, created by Michael Oyatsi.
 
 The goal of this website is to demonstrate understanding how to use Quarto and Github to create websites. 
