@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Creating a website using Quarto"
+  title: "Creating a website using Quarto For Lab 2 Question 4"
   navbar:
     left:
       - href: index.qmd

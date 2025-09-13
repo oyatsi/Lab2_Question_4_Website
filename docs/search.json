@@ -4,12 +4,12 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site"
+    "text": "This is a website created for the Lab 2 Question 4.\nThe goal of this website is to demonstrate understanding how to use Quarto and Github to create websites."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Creating a website using Quarto",
+    "title": "Creating a website using Quarto For Lab2 Question 4",
     "section": "",
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   }
